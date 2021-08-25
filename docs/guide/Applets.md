@@ -26,8 +26,8 @@
 
 可在设备详情页面收藏，也可在我的设备下批量收藏
 
-<img src="../.vuepress/public/e83639cbc6b03b4718b6777129934375.jpeg" style="zoom: 50%;" /><img src="..\.vuepress\public\d07b8c8f7dbc6f02927a628933e2065b.jpeg" style="zoom: 50%;" />
-<img src="..\.vuepress\public\1e7a91517f89ee7b5bd71bd8e778b315.jpeg" style="zoom: 50%;" /><img src="..\.vuepress\public\f544b948cbfa804870ea5f6c94d43679.jpeg" style="zoom: 50%;" />
+<img src="../.vuepress/public/e83639cbc6b03b4718b6777129934375.jpeg" style="zoom: 50%;" /><img src="../.vuepress/public/d07b8c8f7dbc6f02927a628933e2065b.jpeg" style="zoom: 50%;" />
+<img src="../.vuepress/public/1e7a91517f89ee7b5bd71bd8e778b315.jpeg" style="zoom: 50%;" /><img src="../.vuepress/public/f544b948cbfa804870ea5f6c94d43679.jpeg" style="zoom: 50%;" />
 
 ## 个人设置
 
@@ -35,4 +35,4 @@
 
 设置页面可以退出账号，切换单位
 
-<img src="..\.vuepress\public\1c8ed45f760a612959d6243d9ded7538.jpeg" style="zoom:67%;" /><img src="..\.vuepress\public\22d91ada400bb6f21360d60f63f8f6b3.jpeg" style="zoom:67%;" /><img src="..\.vuepress\public\89885bfdb702ac04966fa3bd3c987dce.jpeg" style="zoom:67%;" />
+<img src="../.vuepress/public/1c8ed45f760a612959d6243d9ded7538.jpeg" style="zoom:67%;" /><img src="../.vuepress/public/22d91ada400bb6f21360d60f63f8f6b3.jpeg" style="zoom:67%;" /><img src="../.vuepress/public/89885bfdb702ac04966fa3bd3c987dce.jpeg" style="zoom:67%;" />
