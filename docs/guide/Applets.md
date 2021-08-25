@@ -9,7 +9,7 @@
 
 ## 报修功能
 
-系统支持扫码报修和填表报修两种报修方式；若需要查询详细功能，请登录web端（https://baoxiu.larkea.com/）
+系统支持扫码报修和填表报修两种报修方式；若需要查询详细功能，请登录web端（[https://baoxiu.larkea.com/](https://baoxiu.larkea.com)）
 
 ## 任务功能
 

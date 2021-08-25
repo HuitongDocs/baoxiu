@@ -1,6 +1,6 @@
 ## 创建我的单位
 
-可选择小程序创建或者web端（https://baoxiu.larkea.com/）创建，两者数据互通；
+可选择小程序创建或者web端（[https://baoxiu.larkea.com/](https://baoxiu.larkea.com)）创建，两者数据互通；
 
 两者都需填写单位名称，单位简介和单位类型；
 
