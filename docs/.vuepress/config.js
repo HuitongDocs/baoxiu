@@ -3,6 +3,7 @@ module.exports = {
     title: '叮当报修帮助文档',
     description: '快速开始指南',
     themeConfig: {
+        docsDir: 'docs',
         editLinks: true,
         editLinkText: '在 GitHub 上编辑此页面',
         repo: 'https://github.com/HuitongDocs/baoxiu',
