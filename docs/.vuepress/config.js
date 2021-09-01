@@ -1,4 +1,5 @@
 module.exports = {
+    base: '/baoxiu/',
     title: '叮当报修帮助文档',
     description: '快速开始指南',
     themeConfig: {
