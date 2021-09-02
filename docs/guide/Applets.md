@@ -1,4 +1,5 @@
 # 小程序
+[[toc]]
 
 ## 如何进入小程序
 
@@ -9,11 +10,15 @@
 
 ## 报修功能
 
-系统支持扫码报修和填表报修两种报修方式；若需要查询详细功能，请登录web端（[https://baoxiu.larkea.com/](https://baoxiu.larkea.com)）
+系统支持扫码报修和填表报修两种报修方式
+
+::: tip 提示
+若需要查询详细功能，请登录web端（[https://baoxiu.larkea.com/](https://baoxiu.larkea.com)）
+:::
 
 ## 任务功能
 
-::: tip 提示
+::: warning 注意
 任务功能只有工程师以上的级别能查看和操作
 :::
 
@@ -27,15 +32,38 @@
 
 ## 设备收藏
 
-可在设备详情页面收藏，也可在我的设备下批量收藏
+### 单个设备收藏
 
-<img src="../.vuepress/public/e83639cbc6b03b4718b6777129934375.jpeg" style="zoom: 50%;" /><img src="../.vuepress/public/d07b8c8f7dbc6f02927a628933e2065b.jpeg" style="zoom: 50%;" />
-<img src="../.vuepress/public/1e7a91517f89ee7b5bd71bd8e778b315.jpeg" style="zoom: 50%;" /><img src="../.vuepress/public/f544b948cbfa804870ea5f6c94d43679.jpeg" style="zoom: 50%;" />
+* 设备详情页面收藏
+
+<img src="../.vuepress/public/AppletsDevice.png" style="zoom:67%;" />
+
+<img src="../.vuepress/public/AppletsDevice2.png" style="zoom:67%;" />
+
+### 多个设备批量收藏
+
+* 在我的设备下批量收藏
+
+<img src="../.vuepress/public/AppletsDevice3.png" style="zoom: 67%;" />
+
+<img src="../.vuepress/public/AppletsDevice4.png" style="zoom: 67%;" />
 
 ## 个人设置
 
-在我的信息页面可以修改头像，姓名，手机号码，邮箱号码，查看所属单位的信息，如果是工程师以上级别还可查看团队里的成员；
+在我的信息页面可以修改头像，姓名，手机号码，邮箱号码，查看所属单位的信息；
+
+::: warning 注意
+工程师以上级别，还可查看公司的部门以及部门里的成员
+:::
+
+<img src="../.vuepress/public/AppletsSetting.png" style="zoom:67%;" />
+
+<img src="../.vuepress/public/AppletsPersonalInformation.png" style="zoom:67%;" />
 
 设置页面可以退出账号，切换单位
 
-<img src="../.vuepress/public/1c8ed45f760a612959d6243d9ded7538.jpeg" style="zoom:67%;" /><img src="../.vuepress/public/22d91ada400bb6f21360d60f63f8f6b3.jpeg" style="zoom:67%;" /><img src="../.vuepress/public/89885bfdb702ac04966fa3bd3c987dce.jpeg" style="zoom:67%;" />
+<img src="../.vuepress/public/AppletsCompany.png" style="zoom:67%;" />
+
+<img src="../.vuepress/public/AppletsCompany2.png" style="zoom:67%;" />
+
+<img src="../.vuepress/public/AppletsCompany3.png" style="zoom:67%;" />
