@@ -14,7 +14,14 @@ module.exports = {
             './guide/Create',
             './guide/Applets',
             './guide/Web',
-            './guide/FAQ'
+            {
+                title:'FAQ',
+                children: [
+                    ['./guide/FAQ/Web', 'Web'],
+                    ['./guide/FAQ/Applets', '小程序'],
+                    ['./guide/FAQ/CustomLabel', '定制标签']
+                ]
+            }
         ]
     }
 }

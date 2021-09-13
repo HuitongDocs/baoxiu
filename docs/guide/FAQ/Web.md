@@ -1,11 +1,10 @@
-# FAQ
 [[toc]]
 
 ## 如何获取设备二维码？
 
 在[web端](https://baoxiu.larkea.com)的管理控制台下的设备列表里，点击设备的详情，在设备名称下有个二维码的图标，鼠标悬停在图标上，即可获得设备的二维码，如果没有设备，请在设备列表下新建设备，然后重复上述操作
 
-![](../.vuepress/public/d5471c55fa1eea273f6451260e6ce59b.png)
+![](../../.vuepress/public/d5471c55fa1eea273f6451260e6ce59b.png)
 
 ## 设备已有编码是否可以使用？
 
@@ -13,8 +12,8 @@
 
 若系统中没有设备，则需在管理控制台的设备列表中新建设备，并把设备的编码录入自定义编码一栏中
 
-![](../.vuepress/public/710d2e0a37e4b26ced2952d12b869662.png)
+![](../../.vuepress/public/710d2e0a37e4b26ced2952d12b869662.png)
 
 若系统中已经有此设备，则需在管理控制台的设备列表中查看此设备的详情，然后点击修改设备信息，把设备的编码录入自定义编码一栏中
 
-![](../.vuepress/public/c86de93e34e52453a5abfeb8ab51e10f.png)
+![](../../.vuepress/public/c86de93e34e52453a5abfeb8ab51e10f.png)
