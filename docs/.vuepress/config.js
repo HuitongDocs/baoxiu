@@ -4,7 +4,7 @@ module.exports = {
     description: '快速开始指南',
     themeConfig: {
         docsDir: 'docs',
-        editLinks: true,
+        editLinks: false,
         editLinkText: '在 GitHub 上编辑此页面',
         repo: 'https://github.com/HuitongDocs/baoxiu',
         lastUpdated: '上次更新',
