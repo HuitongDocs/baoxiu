@@ -7,5 +7,6 @@
 5. FAQ
 
    * 5.1 [Web](./guide/FAQ/Web.html)
-   * 5.2 [小程序](./guide/FAQ/小程序.html)
+   * 5.2 [小程序](./guide/FAQ/Applets.html)
+   * 5.3 [定制标签](./guide/FAQ/CustomLabel.html)
 

@@ -1,20 +1,57 @@
-<div align='center' ><font size='60'>如何生成设备二维码？</font></div>
+# 如何生成设备二维码？
+[[toc]]
 
-**方式1：小程序直接打印单位报修码**
+## 方式1：小程序直接打印单位报修码
 
-配置蓝牙条码打印机后，在设置页面下方点击打印单位保修码，即可实现单位报修码打印
+配置蓝牙条码打印机后，在设置页面下方点击打印单位报修二维码，即可实现单位报修码打印
 
-**方式2：小程序打印资产报修二维码**
+<img src="../../.vuepress/public/AppletsCompany.png" style="zoom:67%;" />
+
+<img src="../../.vuepress/public/connectThePrinter.jpg" style="zoom:51%;" />
+
+<img src="../../.vuepress/public/searchBluetooth.jpg" style="zoom:51%;" />
+
+<img src="../../.vuepress/public/searchBluetooth2.jpg" style="zoom:51%;" />
+
+<img src="../../.vuepress/public/connectSuccess.jpg" style="zoom:51%;" />
+
+<img src="../../.vuepress/public/companyTemplate.jpg" style="zoom:51%;" />
+
+<img src="../../.vuepress/public/companyQRCode.jpg" style="zoom:51%;" />
+
+<img src="../../.vuepress/public/PrintSuccess.jpg" style="zoom:51%;" />
+
+<img src="../../.vuepress/public/companyLabel.jpg" style="zoom:89%;" />
+
+## 方式2：小程序打印资产报修二维码
 
 配置蓝牙条码打印机后，在设备首页点击二维码，即可实现资产报修二维码打印
 
-**方式3：后台查看并打印设备二维码**
+<img src="../../.vuepress/public/AppletsCompany.png" style="zoom:67%;" />
+
+<img src="../../.vuepress/public/connectThePrinter.jpg" style="zoom:51%;" />
+
+<img src="../../.vuepress/public/searchBluetooth.jpg" style="zoom:51%;" />
+
+<img src="../../.vuepress/public/searchBluetooth2.jpg" style="zoom:51%;" />
+
+<img src="../../.vuepress/public/connectSuccess.jpg" style="zoom:51%;" />
+
+<img src="../../.vuepress/public/deviceTemplate.jpg" style="zoom:51%;" />
+
+<img src="../../.vuepress/public/deviceQRCode.jpg" style="zoom:51%;" />
+
+<img src="../../.vuepress/public/deviceQRCode2.jpg" style="zoom:51%;" />
+
+<img src="../../.vuepress/public/deviceLabel.jpg" style="zoom:96%;" />
+
+## 方式3：后台查看并打印设备二维码
 
 登录管理后台：baoxiu.larkea.com ，在设备详情页面中可浏览、下载、打印设备设备二维码（打印二维码需使用配套标签打印机并安装驱动，详情联系客服）
 
 ![](../../.vuepress/public/AppletsFAQ2.png)
 
-**方式4：批量导出设备二维码**
+## 方式4：批量导出设备二维码
 
 ::: warning 注意
 只有公司的所有者才能批量生成二维码
