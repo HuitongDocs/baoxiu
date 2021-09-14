@@ -17,9 +17,9 @@ module.exports = {
             {
                 title:'FAQ',
                 children: [
-                    ['./guide/FAQ/Web', 'Web'],
-                    ['./guide/FAQ/Applets', '小程序'],
-                    ['./guide/FAQ/CustomLabel', '定制标签']
+                    ['./guide/FAQ/GetAssetQRCode', '如何获取资产二维码？'],
+                    ['./guide/FAQ/UseTheOriginalAssetCode', '原有的资产编码是否可以使用？'],
+                    ['./guide/FAQ/CustomLabel', '如何定制资产标签？']
                 ]
             }
         ]
